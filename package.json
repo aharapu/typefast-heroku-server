@@ -4,7 +4,8 @@
   "description": "first try at a restful api using expressjs",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
   },
   "author": "Valentin Harapu",
   "license": "ISC",
